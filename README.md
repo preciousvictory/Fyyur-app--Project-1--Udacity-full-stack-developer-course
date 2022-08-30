@@ -1,7 +1,7 @@
 Fyyur
 -----
 
-![]()
+![](fyyur.png)
 
 ## Introduction
 
